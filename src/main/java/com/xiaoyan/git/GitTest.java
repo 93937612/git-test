@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master!");
         System.out.println("hot-fix!!!");
         System.out.println("master !");
+        System.out.println("独孤九剑，pull!");
     }
 }
